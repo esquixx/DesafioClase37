@@ -1,0 +1,243 @@
+[
+	{
+		"id": 1,
+		"title": "Catena Zapata Malbec",
+		"description": "Un Malbec robusto y elegante con notas intensas de frutas maduras y especias.",
+		"price": 17800,
+		"thumbnails": [
+			"ruta-imagen-1.jpg",
+			"ruta-imagen-2.jpg"
+		],
+		"code": "54321",
+		"category": "Vino Tinto",
+		"stock": 10,
+		"status": true
+	},
+	{
+		"id": 2,
+		"title": "Trapiche Broquel Cabernet Sauvignon",
+		"description": "Cabernet Sauvignon de alta calidad con taninos suaves y aroma a frutas negras.",
+		"price": 12100,
+		"thumbnails": [
+			"ruta-imagen-3.jpg",
+			"ruta-imagen-4.jpg"
+		],
+		"code": "67890",
+		"category": "Vino Tinto",
+		"stock": 15,
+		"status": true
+	},
+	{
+		"id": 3,
+		"title": "Bodega Colomé Torrontés",
+		"description": "Torrontés fresco y floral con toques cítricos, perfecto para acompañar platos ligeros.",
+		"price": 9300,
+		"thumbnails": [
+			"ruta-imagen-5.jpg",
+			"ruta-imagen-6.jpg"
+		],
+		"code": "13579",
+		"category": "Vino Blanco",
+		"stock": 20,
+		"status": true
+	},
+	{
+		"id": 4,
+		"title": "Luigi Bosca Chardonnay",
+		"description": "Chardonnay con fermentación en barrica, untuoso y con notas de frutas tropicales.",
+		"price": 8300,
+		"thumbnails": [
+			"ruta-imagen-7.jpg",
+			"ruta-imagen-8.jpg"
+		],
+		"code": "24680",
+		"category": "Vino Blanco",
+		"stock": 18,
+		"status": true
+	},
+	{
+		"id": 5,
+		"title": "Norton Privada",
+		"description": "Un blend tinto complejo con mezcla de uvas tintas, envejecido en barricas de roble.",
+		"price": 11800,
+		"thumbnails": [
+			"ruta-imagen-9.jpg",
+			"ruta-imagen-10.jpg"
+		],
+		"code": "97531",
+		"category": "Vino Tinto",
+		"stock": 25,
+		"status": true
+	},
+	{
+		"id": 6,
+		"title": "Altos Las Hormigas Bonarda",
+		"description": "Bonarda de intensidad media, con notas a frutas rojas y especias.",
+		"price": 4300,
+		"thumbnails": [
+			"ruta-imagen-11.jpg",
+			"ruta-imagen-12.jpg"
+		],
+		"code": "86420",
+		"category": "Vino Tinto",
+		"stock": 13,
+		"status": true
+	},
+	{
+		"id": 7,
+		"title": "Luigi Bosca Malbec Reserva",
+		"description": "Malbec reserva de alta gama con crianza en roble, elegante y persistente.",
+		"price": 9200,
+		"thumbnails": [
+			"ruta-imagen-13.jpg",
+			"ruta-imagen-14.jpg"
+		],
+		"code": "75310",
+		"category": "Vino Tinto",
+		"stock": 22,
+		"status": true
+	},
+	{
+		"id": 8,
+		"title": "Terrazas de los Andes Sauvignon Blanc",
+		"description": "Sauvignon Blanc fresco y vibrante con aromas a cítricos y hierbas.",
+		"price": 6000,
+		"code": "01234",
+		"status": true,
+		"stock": 17,
+		"category": "Vino Blanco",
+		"thumbnails": []
+	},
+	{
+		"id": 9,
+		"title": "Zuccardi Serie A Syrah",
+		"description": "Syrah de estilo argentino con carácter especiado y notas de frutas oscuras.",
+		"price": 10400,
+        "code": "98765",
+        "status": true,
+        "stock": 14,
+        "category": "Vino Tinto",
+		"thumbnails": []
+	},
+	{
+		"id": 10,
+		"title": "Catena Zapata White Stones Viognier",
+		"description": "Viognier con mineralidad única y sabores a melocotón y flor de azahar.",
+		"price": 17900,		
+		"code": "56789",
+		"status": true,
+		"stock": 16,
+		"category": "Vino Blanco",
+        "thumbnails": []
+	},
+	{
+		"id": 11,
+		"title": "Achával-Ferrer Quimera",
+		"description": "Corte bordolés complejo con predominio de Malbec, Merlot y Cabernet Franc.",
+		"price": 23400,
+		"code": "13009",
+		"status": true,
+		"stock": 16,
+		"category": "Vino Tinto",
+		"thumbnails": []
+	},
+	{
+		"id": 12,
+		"title": "Susana Balbo Signature Rosé",
+		"description": "Malbec rosado seco y refrescante con aromas a frutas rojas y flores.",
+		"price": 19700,
+		"code": "27854",
+		"status": true,
+		"stock": 10,
+		"category": "Vino Rosado",
+        "thumbnails": []
+	},
+	{
+		"id": 13,
+		"title": "Bodega del Fin del Mundo Pinot Noir",
+		"description": "Pinot Noir argentino con elegancia y sutileza, destacando notas a frutas del bosque.",
+		"price": 5200,
+		"code": "93006",
+		"status": true,
+		"stock": 14,
+		"category": "Vino Tinto",
+		"thumbnails": []
+	},
+	{
+		"id": 14,
+		"title": "Catena Zapata Merlot",
+		"description": "Merlot suave y redondo con notas de ciruela y vainilla.",
+		"price": 18200,
+		"code": "55978",
+		"status": true,
+		"stock": 25,
+		"category": "Vino Tinto",
+		"thumbnails": []
+	},
+	{
+		"id": 15,
+		"title": "Rutini Moscato Blanco Dulce",
+		"description": "Vino blanco dulce con notas florales y sabor a uvas moscatel.",
+		"price": 10800,
+		"code": "44020",
+		"status": true,
+		"stock": 20,
+		"category": "Vino Blanco",
+		"thumbnails": []
+	},
+	{
+		"id": 16,
+		"title": "Bodega del Desierto Carmenere",
+		"description": "Carmenere argentino con carácter único, destacando notas a pimiento y especias.",
+		"price": 7200,
+		"code": "35534",
+		"status": true,
+		"stock": 11,
+		"category": "Vino Tinto",
+		"thumbnails": []
+	},
+	{
+		"id": 17,
+		"title": "Finca Las Moras Tannat",
+		"description": "Tannat argentino con taninos potentes, ideal para quienes disfrutan vinos robustos.",
+		"price": 17500,
+		"code": "70042",
+		"status": true,
+		"stock": 17,
+		"category": "Vino Tinto",
+		"thumbnails": []
+	},
+	{
+		"id": 18,
+		"title": "Luigi Bosca Chenin Blanc",
+		"description": "Chenin Blanc fresco y equilibrado con toques de pera y manzana verde.",
+		"price": 11700,
+		"code": "63391",
+		"status": true,
+		"stock": 23,
+		"category": "Vino Blanco",
+		"thumbnails": []
+	},
+	{
+		"id": 19,
+		"title": "Bodegas Salentein Cabernet Franc",
+		"description": "Cabernet Franc con estructura y complejidad, resaltando notas herbáceas y frutas maduras.",
+		"price": 6300,
+		"code": "38865",
+		"stock": 11,
+		"status": true,
+		"category": "Vino Tinto",
+		"thumbnails": []
+	},
+	{
+		"id": 20,
+		"title": "Bodega Norton Sémillon",
+		"description": "Sémillon argentino con cuerpo medio y aromas a cítricos y miel.",
+		"price": 8900,
+		"code": "89980",
+		"status": true,
+		"stock": 15,
+		"category": "Vino Blanco",
+		"thumbnails": []
+	}
+]
